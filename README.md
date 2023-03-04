@@ -1,4 +1,4 @@
-# Downloaders
+# Downloader
 <b>YouTube Video Downloader</b>
 
 Use this in Pythonista.
